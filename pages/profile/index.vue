@@ -9,7 +9,7 @@
 				<view class="avatar">{{ avatarText }}</view>
 				<view class="profile-copy">
 					<text class="profile-name">{{ userInfo.username || '微信用户' }}</text>
-					<text class="profile-sub">手机号：{{ userInfo.phone || '未绑定' }}</text> 
+					<text class="profile-sub">手机号666：{{ userInfo.phone || '未绑定' }}</text> 
 				</view>
 			</view>
 		</view>
